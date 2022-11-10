@@ -1,0 +1,28 @@
+id    idclient    version        releaseDate       releaseNotes        idplatform
+1     MEDRAY      1.0.39.0       17-Nov-2021      'Bla BLA'            1
+2     MEDRAY      1.0.39.0       17-Nov-2021      'Bla BLA'            X32
+3     MEDRAY      1.0.39.0       17-Nov-2021      'Bla BLA'            XP
+4                 1.0.39.0       17-Nov-2021      'Test test'          X64
+5                 1.0.39.0       17-Nov-2021      'Test test'          X32
+6                 1.0.39.0       17-Nov-2021      'Test test'          XP
+
+releaseNotes  releaseDate
+
+id  version   releaseDate   releaseNotes   idPlatform
+1   1.0.39.0  17-Nov-2021   'Test'          
+2   1.0.39.0  16-Nov-2021   'Bla bla'
+
+platform
+id  name
+1   X64
+2   X32
+3   XP
+
+client
+
+releaseNotes 
+id text
+1  'test'
+1
+1
+1
