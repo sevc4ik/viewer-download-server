@@ -1,0 +1,271 @@
+{
+  "versions": [
+    {
+      "client": "MEDRAY",
+      "version": "1.0.39.0",
+      "releaseDate": "20-Nov-2022",
+      "releaseNotes": [
+        "New Feature: Two-factor Authentication",
+        "New Setting: Restore all warning messages",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)",
+        "New Feature: Ability to change HP order in user settings (added Move Down and Move Up buttons)",
+        "New Feature: New Dicoms trimming logic (MG).",
+        "New Feature: New Dicoms trimming logic (MG).",
+        "New Feature: New Dicoms trimming logic (MG)."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.39.0_X64_MEDRAY"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.39.0_X32_MEDRAY"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.39.0_XP_MEDRAY"
+        }
+      ]
+    },
+    {
+      "client": "MEDRAY",
+      "version": "1.0.38.0",
+      "releaseDate": "06-Oct-2022",
+      "releaseNotes": [
+        "New Addition: Transport Layer Security version check.",
+        "New Addition: Tag “Study Description” added to Hanging Protocols.",
+        "New Feature: Show Ellipse Center (by default) (Workarea settings - Other Settings - Display settings).",
+        "Bugfix: Option to maintain cineloop playback speed between series.",
+        "New Feature: Show Ellipse Center (by default) (Workarea settings - Other Settings - Display settings).",
+        "Bugfix: Option to maintain cineloop playback speed between series.",
+        "New Feature: Show Ellipse Center (by default) (Workarea settings - Other Settings - Display settings).",
+        "Bugfix: Option to maintain cineloop playback speed between series."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.38.0_X64_MEDRAY"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.38.0_X32_MEDRAY"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.38.0_XP_MEDRAY"
+        }
+      ]
+    },
+    {
+      "client": "MEDRAY",
+      "version": "1.0.37.0",
+      "releaseDate": "30-Aug-2022",
+      "releaseNotes": [
+        "New Setting: «Use Cardiology View Grouping». This setting sorts Dicoms by 'View name' tag. The setting will be enabled by default.",
+        "New Feature: New parameters to Hanging Protocols for Stress Echo procedures are 'View name' and 'Stage name' tags."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.37.0_X64_MEDRAY"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.37.0_X32_MEDRAY"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.37.0_XP_MEDRAY"
+        }
+      ]
+    },
+    {
+      "client": "MEDRAY",
+      "version": "1.0.36.0",
+      "releaseDate": "26-Jul-2022",
+      "releaseNotes": [
+        "New Feature: Two-factor Authentication",
+        "New Setting: Restore all warning messages",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)",
+        "New Feature: Ability to change HP order in user settings (added Move Down and Move Up buttons)",
+        "New Feature: New Dicoms trimming logic (MG)."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.36.0_X64_MEDRAY"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.36.0_X32_MEDRAY"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.36.0_XP_MEDRAY"
+        }
+      ]
+    },
+    {
+      "client": "MEDRAY",
+      "version": "1.0.35.0",
+      "releaseDate": "10-Apr-2021",
+      "releaseNotes": [
+        "New Feature: Two-factor Authentication",
+        "New Setting: Restore all warning messages",
+        "New Feature: New Dicoms trimming logic (MG).",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)",
+        "New Feature: Ability to change HP order in user settings (added Move Down and Move Up buttons)",
+        "New Setting: Restore all warning messages",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)"
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.35.0_X64_MEDRAY"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.35.0_X32_MEDRAY"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.35.0_XP_MEDRAY"
+        }
+      ]
+    },
+    {
+      "client": "",
+      "version": "1.0.39.0",
+      "releaseDate": "20-Nov-2022",
+      "releaseNotes": [
+        "New Feature: Two-factor Authentication",
+        "New Setting: Restore all warning messages",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)",
+        "New Feature: Ability to change HP order in user settings (added Move Down and Move Up buttons)",
+        "New Feature: New Dicoms trimming logic (MG)."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.39.0_X64"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.39.0_X32"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.39.0_XP"
+        }
+      ]
+    },
+    {
+      "client": "",
+      "version": "1.0.38.0",
+      "releaseDate": "06-Oct-2022",
+      "releaseNotes": [
+        "New Addition: Transport Layer Security version check.",
+        "New Addition: Tag “Study Description” added to Hanging Protocols.",
+        "New Feature: Show Ellipse Center (by default) (Workarea settings - Other Settings - Display settings).",
+        "Bugfix: Option to maintain cineloop playback speed between series.",
+        "New Feature: Show Ellipse Center (by default) (Workarea settings - Other Settings - Display settings).",
+        "Bugfix: Option to maintain cineloop playback speed between series.",
+        "New Feature: Show Ellipse Center (by default) (Workarea settings - Other Settings - Display settings).",
+        "Bugfix: Option to maintain cineloop playback speed between series."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.38.0_X64"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.38.0_X32"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.38.0_XP"
+        }
+      ]
+    },
+    {
+      "client": "",
+      "version": "1.0.37.0",
+      "releaseDate": "30-Aug-2022",
+      "releaseNotes": [
+        "New Setting: «Use Cardiology View Grouping». This setting sorts Dicoms by 'View name' tag. The setting will be enabled by default.",
+        "New Feature: New parameters to Hanging Protocols for Stress Echo procedures are 'View name' and 'Stage name' tags."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.37.0_X64"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.37.0_X32"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.37.0_XP"
+        }
+      ]
+    },
+    {
+      "client": "",
+      "version": "1.0.36.0",
+      "releaseDate": "26-Jul-2022",
+      "releaseNotes": [
+        "New Feature: Two-factor Authentication",
+        "New Setting: Restore all warning messages",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)",
+        "New Feature: Ability to change HP order in user settings (added Move Down and Move Up buttons)",
+        "New Feature: New Dicoms trimming logic (MG)."
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.36.0_X64"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.36.0_X32"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.36.0_XP"
+        }
+      ]
+    },
+    {
+      "client": "",
+      "version": "1.0.35.0",
+      "releaseDate": "10-Apr-2021",
+      "releaseNotes": [
+        "New Feature: Two-factor Authentication",
+        "New Setting: Restore all warning messages",
+        "New Feature: New Dicoms trimming logic (MG).",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)",
+        "New Feature: Ability to change HP order in user settings (added Move Down and Move Up buttons)",
+        "New Setting: Restore all warning messages",
+        "New Feature: Scrolling in HP (buttons ‘Right’, ‘Left’ - switching by protocols buttons ‘Up’, ‘Down’ - switching between historical visits)"
+      ],
+      "platforms": [
+        {
+          "platform": "64-bit",
+          "fileName": "1.0.35.0_X64"
+        },
+        {
+          "platform": "32-bit",
+          "fileName": "1.0.35.0_X32"
+        },
+        {
+          "platform": "XP",
+          "fileName": "1.0.35.0_XP"
+        }
+      ]
+    }
+  ]
+}
+

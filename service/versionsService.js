@@ -1,20 +1,13 @@
-import database from "../database.js";
-import { filterData } from "../utils/filterData.js";
-import { getSqlQuery } from "../utils/getSqlQuery.js";
+import fs from "fs";
 
 class VersionsService {
-  async getVersions(params) {
-    const {currver, client} = params;
-
-    return new Promise(async (resolve) => {
-      const db = await database.connectToDb();
-      const sql = getSqlQuery(client);
-      db.all(sql, async (err, rows) => {
+  async getVersions() {
+    return new Promise((resolve, reject) => {
+      fs.readFile("./data.json", "utf8", (err, jsonString) => {
         if (err) {
-          return res.status(400).json({ error: err.message });
+          reject();
         }
-        console.log(rows.length)
-        resolve(filterData(rows, currver, client));
+        resolve(JSON.parse(jsonString).versions);
       });
     });
   }
