@@ -20,6 +20,6 @@ router.get("/download", async (req, res) => {
   } else {
     res.status(404).json("fileNotFound");
   }
-});40
+});
 
 export default router;
